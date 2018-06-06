@@ -1,0 +1,16 @@
+{
+	"browser": "Google Chrome",
+	"editor": "Notepad ++",
+	"minifyHTML": true,
+	"combineMediaQueries": false,
+	"useUncss": false,
+	"uncssIgnore": [],
+	"hint": true,
+	"w3c": true,
+	"export_assets": "export",
+	"export_templates": "export",
+	"export_misc": "export",
+	"assemble_templates": true,
+	"template_asset_prefix": "",
+	"revisionCaching":false
+}
